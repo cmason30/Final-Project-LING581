@@ -10,3 +10,8 @@ Spanish, French, and Portuguese: https://github.com/cleverly-ai/multilingual-ema
 Mallet Tutorial:
 
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
+
+Pandas Pokemon tutorial:
+
+https://www.youtube.com/watch?v=vmEHCJofslg
