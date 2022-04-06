@@ -15,3 +15,7 @@ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 Pandas Pokemon tutorial:
 
 https://www.youtube.com/watch?v=vmEHCJofslg
+
+Using LDA tutorial:
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
